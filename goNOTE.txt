@@ -1,16 +1,13 @@
 <!DOCTYPE html>
 <html>
  <head>
- <title>Go Note</title>
+ <title>GoNote</title>
 <link rel="stylesheet" href="custom-style.css">
 </head>
- <body>
- <h1>Moje notatki</h1>
- <p>Tutaj pojawi się lista notatek.</p>
 <body>
- <img src="C:\Users\karolina\Desktop\GGIT\HTML\GoNote.jpg" alt="Tło" width="100%" height="auto"/>
+ <img src=".\Note.jpg" alt="Tło" width="400" height="auto"/>
  <div>
- <h1>GO Note</h1>
+ <h1>GoNote</h1>
  <p>Aplikacja do zarządzania swoimi <strong>notatkami</strong>.</p>
  </div>
  <br />
